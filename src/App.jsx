@@ -143,7 +143,7 @@ const WarehouseAIPlatform = () => {
         {/* Header */}
         <header className="bg-blue-600 text-white p-6 rounded-t-xl flex justify-between items-center">
           <div>
-            <h1 className="text-2xl font-bold">Warehouse AI Platform</h1>
+            <h1 className="text-2xl font-bold">Supply AI</h1>
             <p className="text-blue-100">Unlock the power of your warehouse data</p>
           </div>
           <div className="flex space-x-2">
